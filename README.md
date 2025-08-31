@@ -25,13 +25,13 @@
 │   └── unicorn_funding_summary.csv           # 公司级别汇总
 │
 ├── figures/                      # Python 可视化结果
-│   ├── funding_rounds_distribution.png        # 融资次数图
-│   ├── funding_trend_by_year.png              # 融资年份趋势图
-│   ├── industry_total_funding.png             # 行业融资总额对比图
-│   ├── rounds_vs_funding.png                  # 融资轮次 vs 融资总额图
-│   ├── total_funding_distribution.png         # 融资总额分布图
-│   ├── valuation_boxplot.png                  # 估值分布箱线图
-│   └── valuation_distribution.png             # 估值分布直方图
+│   ├── funding_rounds_distribution.png   
+│   ├── funding_trend_by_year.png    
+│   ├── industry_total_funding.png  
+│   ├── rounds_vs_funding.png     
+│   ├── total_funding_distribution.png   
+│   ├── valuation_boxplot.png  
+│   └── valuation_distribution.png   
 │
 ├── notebooks/                    # Python 脚本
 │   ├── clean_funding_data_final.py            # 融资数据初步合并清理
@@ -48,12 +48,12 @@
 │   └── Tableau_Public_Link.txt   # Tableau Public 链接
 │
 ├── sql/                          # SQL 查询
-│   ├── avg_valuation_by_industry.sql / .csv   # 按行业平均估值
-│   ├── funding_trend_by_year.sql / .csv       # 公司融资趋势（按年份统计融资轮数和总额）
-│   ├── industry_funding.sql / .csv            # 按行业统计总融资额和公司数量
-│   ├── multi_round_companies.sql / .csv       # 多轮融资公司（融资次数>1）
-│   ├── recent_funding_events.sql / .csv       # 最近融资事件
-│   ├── top10_total_funding.sql / .csv         # 查询总融资额前10公司
+│   ├── avg_valuation_by_industry.sql / .csv 
+│   ├── funding_trend_by_year.sql / .csv     
+│   ├── industry_funding.sql / .csv    
+│   ├── multi_round_companies.sql / .csv  
+│   ├── recent_funding_events.sql / .csv 
+│   ├── top10_total_funding.sql / .csv 
 │   └── ...
 │
 ├── requirements.txt              # Python 库
@@ -109,6 +109,7 @@ SQLite 已内置在 Python 标准库中，无需额外安装。
 本项目已预置多类查询，支持快速分析：
 
 * **行业分析**
+ # 按行业平均估值
 
   * `industry_funding.sql`：各行业融资额统计
   * `avg_valuation_by_industry.sql`：行业平均估值
