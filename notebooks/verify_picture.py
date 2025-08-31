@@ -59,7 +59,7 @@ plt.savefig(os.path.join(output_folder, "industry_total_funding.png"))
 plt.close()
 
 # -----------------------------
-# 图 4：估值分布（直方图 + 箱线图）
+# 图 4：估值分布（直方图）
 # -----------------------------
 plt.figure(figsize=(10,6))
 sns.histplot(df_only['valuation_usd'], bins=50, kde=True)
@@ -71,6 +71,9 @@ plt.tight_layout()
 plt.savefig(os.path.join(output_folder, "valuation_distribution.png"))
 plt.close()
 
+# -----------------------------
+# 图 5：估值分布（箱线图）
+# -----------------------------
 plt.figure(figsize=(10,4))
 sns.boxplot(x=df_only['valuation_usd'])
 plt.xscale('log')
@@ -80,7 +83,7 @@ plt.savefig(os.path.join(output_folder, "valuation_boxplot.png"))
 plt.close()
 
 # -----------------------------
-# 图 5：融资轮次 vs 融资总额（散点图）
+# 图 6：融资轮次 vs 融资总额（散点图）
 # -----------------------------
 plt.figure(figsize=(10,6))
 sns.scatterplot(x='funding_rounds', y='total_funding_usd', data=df_only)
@@ -93,7 +96,7 @@ plt.savefig(os.path.join(output_folder, "rounds_vs_funding.png"))
 plt.close()
 
 # -----------------------------
-# 图 6：融资年份趋势
+# 图 7：融资年份趋势
 # -----------------------------
 df_long['funded_year'] = pd.to_datetime(df_long['funded_at'], errors='coerce').dt.year
 funding_by_year = df_long.groupby('funded_year')['raised_amount_usd'].sum().dropna()
