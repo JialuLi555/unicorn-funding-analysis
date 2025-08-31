@@ -41,13 +41,13 @@
 │   ├── unicorn_funding_only.py                # 仅含有融资信息的分析数据
 │   └── verify_picture.py                      # 数据初步验证图
 │
-├── reports/                      # Tableau Dashboard
+├── Tableau/                      # Tableau Dashboard
 │   ├── Tableau_Dashboard1.png
 │   ├── Tableau_Dashboard2.png
 │   ├── Tableau_Dashboard3.png
 │   └── Tableau_Public_Link.txt   # Tableau Public 链接
 │
-├── sql/                          # SQL 查询
+├── SQL/                          # SQL 查询
 │   ├── avg_valuation_by_industry.sql / .csv 
 │   ├── funding_trend_by_year.sql / .csv     
 │   ├── industry_funding.sql / .csv    
@@ -95,13 +95,13 @@ SQLite 已内置在 Python 标准库中，无需额外安装。
 
 2. **运行 SQL 查询**
 
-   * 手动执行 `sql/` 文件夹中的 `.sql` 查询语句
+   * 手动执行 `SQL/` 文件夹中的 `.sql` 查询语句
    * 或运行 Python 脚本自动导出 `.csv` 结果
 
 3. **可视化**
 
    * Python 可视化结果保存在 `figures/`
-   * Tableau 仪表板截图见 `reports/`，并可通过 `Tableau_Public_Link.txt` 在线访问
+   * Tableau 仪表板截图见 `Tableau/`，并可通过 `Tableau_Public_Link.txt` 在线访问
 
 
 ## SQL 查询主题
@@ -134,19 +134,18 @@ SQLite 已内置在 Python 标准库中，无需额外安装。
 * 融资总额 vs 估值关系
 * 融资与估值分布
 
-### Tableau Dashboard（reports/）
+### Tableau Dashboard（Tableau/）
 
-* 独角兽分布（行业 × 国家）
-* 时间趋势：独角兽数量随年份变化
-* 融资额与估值对比
-* 热力图：国家 × 行业独角兽情况
+* Tableau_Dashboard1：宏观趋势（年度 + 融资类型 + 地理）
+* Tableau_Dashboard2：企业与行业（公司Top10 + 散点估值融资 + 行业条形 + 行业热力图）
+* Tableau_Dashboard3：公司案例（融资轮次数 + 时间线）
 
-在线访问 Tableau Dashboard  https://public.tableau.com/app/profile/.47376857/viz/unicorn_funding_only/story
+在线访问 Tableau Dashboard：https://public.tableau.com/app/profile/.47376857/viz/unicorn_funding_only/story
 
 
 ## 数据来源
 
-* 原始数据来自公开独角兽公司统计（如 CB Insights、Crunchbase 相关开放数据）
+* 原始数据来自Kaggle公开数据集
 * 清洗与处理结果保存在 `data/` 文件夹下
 
 
