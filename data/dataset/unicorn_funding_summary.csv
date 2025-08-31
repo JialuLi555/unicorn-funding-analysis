@@ -1,0 +1,160 @@
+﻿company,industry,country,city,total_funding_usd,funding_rounds,latest_valuation_usd,valuation_billion,joined_date
+acronis,Cybersecurity,Switzerland,Schaffhausen,11000000.0,1,2500000000.0,2.5,2019/9/18
+addepar,Fintech,United States,Mountain View,15839694.0,1,2170000000.0,2.17,2021/6/15
+age of learning,Edtech,United States,Glendale,31500000.0,2,3000000000.0,3.0,2016/5/3
+algolia,Internet,United States,San Francisco,1500000.0,1,2250000000.0,2.25,2021/7/28
+alloy,Fintech,United States,New York,126500000.0,1,1350000000.0,1.35,2021/9/30
+appdirect,E-commerce & direct-to-consumer,United States,San Francisco,23499820.0,4,1100000000.0,1.1,2015/10/7
+arctic wolf networks,Cybersecurity,United States,Eden Prairie,7250000.0,1,4300000000.0,4.3,2020/10/22
+automattic,Internet,United States,San Francisco,30600000.0,2,1800000000.0,1.8,2013/5/27
+axtria,Artificial intelligence,United States,Berkeley Heights,2500000.0,1,1000000000.0,1.0,2021/5/13
+betterfly,Artificial intelligence,Chile,Santiago,2500000.0,2,1000000000.0,1.0,2022/2/1
+betterment,Fintech,United States,New York,13000000.0,2,1300000000.0,1.3,2021/9/29
+bitsight technologies,Cybersecurity,United States,Boston,25035000.0,2,2400000000.0,2.4,2021/9/13
+blablacar,Auto & transportation,France,Paris,10000000.0,1,2000000000.0,2.0,2015/9/16
+bloomreach,Artificial intelligence,United States,Mountain View,41000000.0,3,2200000000.0,2.2,2022/2/23
+bolt,Fintech,United States,San Francisco,5016000.0,2,6000000000.0,6.0,2021/10/8
+branch,Mobile & telecommunications,United States,Redwood City,2000000.0,1,1000000000.0,1.0,2018/9/10
+brewdog,Consumer & retail,United Kingdom,Aberdeen,4545754.0,1,1240000000.0,1.24,2017/4/10
+c2fo,Fintech,United States,Leawood,27100000.0,2,1000000000.0,1.0,2019/8/7
+cabify,Auto & transportation,Spain,Madrid,1964250.0,1,1400000000.0,1.4,2018/1/22
+cais,Fintech,United States,New York,4000000.0,1,1000000000.0,1.0,2022/1/11
+calm,Consumer & retail,United States,San Francisco,415000.0,1,2000000000.0,2.0,2019/2/6
+canva,Internet,Australia,Surry Hills,3105000.0,2,40000000000.0,40.0,2018/1/8
+carousell,E-commerce & direct-to-consumer,Singapore,Singapore,800000.0,1,1100000000.0,1.1,2021/9/15
+circle,Fintech,United States,Boston,6000000.0,2,3000000000.0,3.0,2018/5/15
+circleci,Internet,United States,San Francisco,1500000.0,1,1700000000.0,1.7,2021/5/11
+classdojo,Edtech,United States,San Francisco,1600000.0,1,1250000000.0,1.25,2022/7/21
+clio,Internet,Canada,Burnaby,6000000.0,1,1600000000.0,1.6,2021/4/27
+cloudbees,Artificial intelligence,United States,San Jose,16500000.0,3,1150000000.0,1.15,2021/12/9
+coda payments,Other,Singapore,Fintech,3200000.0,2,2500000000.0,2.5,2022/4/15
+collibra,Artificial intelligence,Belgium,Brussels,1251285.0,1,5250000000.0,5.25,2019/1/29
+course hero,Edtech,United States,Redwood City,2383000.0,2,1100000000.0,1.1,2020/2/12
+current,Fintech,United States,New York,13000000.0,1,2200000000.0,2.2,2021/4/27
+cybereason,Cybersecurity,United States,Boston,4620000.0,1,2440000000.0,2.44,2019/8/6
+databricks,Artificial intelligence,United States,San Francisco,14000000.0,1,38000000000.0,38.0,2019/2/5
+dataminr,Artificial intelligence,United States,New York,47586000.0,3,4100000000.0,4.1,2018/6/4
+datarobot,Artificial intelligence,United States,Boston,3300000.0,1,6300000000.0,6.3,2019/7/29
+datastax,Artificial intelligence,United States,Santa Clara,83700000.0,4,1600000000.0,1.6,2021/5/26
+deezer,Internet,France,Paris,149300000.0,3,1400000000.0,1.4,2018/8/2
+degreed,Edtech,United States,Pleasanton,900000.0,1,1400000000.0,1.4,2021/4/13
+druva,Artificial intelligence,United States,Sunnyvale,42000000.0,3,2000000000.0,2.0,2019/6/20
+earnix,Fintech,Israel,Giv'atayim,10000000.0,2,2000000000.0,2.0,2021/2/21
+ecovadis,"Supply chain, logistics, & delivery",France,Paris,1400000.0,1,1000000000.0,1.0,2022/6/14
+esentire,Cybersecurity,Canada,Waterloo,7000000.0,1,1100000000.0,1.1,2022/2/22
+ezcater,"Supply chain, logistics, & delivery",United States,Boston,2790000.0,2,1250000000.0,1.25,2019/4/2
+fanatics,E-commerce & direct-to-consumer,United States,Jacksonville,395000000.0,2,18000000000.0,18.0,2012/6/6
+feedzai,Artificial intelligence,United States,San Mateo,4473643.0,2,1000000000.0,1.0,2021/3/24
+figma,Internet,United States,San Francisco,3874996.0,1,10000000000.0,10.0,2020/4/30
+figment,Internet,Canada,Toronto,1000000.0,1,1400000000.0,1.4,2021/12/20
+flipboard,Internet,United States,Palo Alto,160500000.0,4,1320000000.0,1.32,2015/7/22
+floqast,Fintech,United States,Los Angeles,50000.0,1,1200000000.0,1.2,2021/7/21
+formlabs,Hardware,United States,Somerville,22300000.0,3,2000000000.0,2.0,2018/8/1
+fractal analytics,Artificial intelligence,India,Mumbai,25000000.0,1,1000000000.0,1.0,2022/1/5
+gett,Auto & transportation,Israel,Tel Aviv,457590.0,1,1500000000.0,1.5,2016/5/24
+getyourguide,Travel,Germany,Berlin,16000000.0,2,1100000000.0,1.1,2019/5/16
+gocardless,Fintech,United Kingdom,London,4800000.0,2,2100000000.0,2.1,2022/2/8
+gousto,"Supply chain, logistics, & delivery",United Kingdom,London,2808357.0,2,1000000000.0,1.0,2020/11/3
+greenlight,Fintech,United States,Atlanta,40331.0,1,2300000000.0,2.3,2020/9/24
+hailo,Artificial intelligence,Israel,Tel Aviv,50600000.0,3,1000000000.0,1.0,2021/6/23
+handshake,Internet,United States,San Francisco,1500000.0,1,1500000000.0,1.5,2021/5/12
+heartflow,Health,United States,Redwood City,107016021.0,4,1300000000.0,1.3,2017/12/4
+heyday,E-commerce & direct-to-consumer,United States,Chicago,2000000.0,1,1000000000.0,1.0,2021/11/16
+homelight,Fintech,United States,San Francisco,1500000.0,1,1600000000.0,1.6,2021/9/2
+hopper,Travel,Canada,Montreal,21723709.0,3,3000000000.0,3.0,2021/3/24
+houzz,E-commerce & direct-to-consumer,United States,Palo Alto,48600000.0,3,4000000000.0,4.0,2014/9/30
+icapital network,Fintech,United States,New York,4000000.0,1,4000000000.0,4.0,2021/7/27
+idme,Cybersecurity,United States,McLean,3300000.0,2,1500000000.0,1.5,2021/3/19
+ifood,"Supply chain, logistics, & delivery",Brazil,Osasco,4160000.0,2,1000000000.0,1.0,2018/11/13
+igaworks,Internet,South Korea,Seoul,5000000.0,2,1000000000.0,1.0,2021/11/8
+illumio,Cybersecurity,United States,Sunnyvale,42500000.0,2,2750000000.0,2.75,2015/4/14
+inmobi,Mobile & telecommunications,India,Bengaluru,215600000.0,4,1000000000.0,1.0,2014/12/2
+insightec,Health,Israel,Tirat Carmel,30900000.0,1,1300000000.0,1.3,2020/3/6
+instacart,"Supply chain, logistics, & delivery",United States,San Francisco,10800000.0,2,39000000000.0,39.0,2014/12/30
+intarcia therapeutics,Health,United States,Boston,380097291.0,8,3800000000.0,3.8,2014/4/1
+intercom,Internet,United States,San Francisco,7750000.0,3,1280000000.0,1.28,2018/3/27
+invision,Internet,United States,New York,46116400.0,5,1900000000.0,1.9,2017/11/1
+ivalua,Fintech,United States,Redwood City,4444200.0,1,1100000000.0,1.1,2019/5/21
+jobandtalent,Internet,Spain,Madrid,4731330.0,3,2350000000.0,2.35,2021/12/1
+joytunes,Edtech,Israel,Tel Aviv,2000000.0,2,1000000000.0,1.0,2021/6/21
+jumpcloud,Artificial intelligence,United States,Louisville,1200000.0,1,2620000000.0,2.62,2021/9/13
+justworks,Internet,United States,New York,1000000.0,1,1430000000.0,1.43,2020/1/28
+keeptruckin,"Supply chain, logistics, & delivery",United States,San Francisco,2300000.0,1,2300000000.0,2.3,2019/4/23
+klarna,Fintech,Sweden,Stockholm,166280000.0,4,45600000000.0,45.6,2011/12/12
+lookout,Cybersecurity,United States,San Francisco,131000000.0,5,1000000000.0,1.0,2013/10/10
+loom,Internet,United States,San Francisco,1400000.0,1,1530000000.0,1.53,2021/5/20
+lucid software,Internet,United States,South Jordan,89256.0,1,3000000000.0,3.0,2021/6/29
+lydia,Fintech,France,Paris,771960.0,1,1000000000.0,1.0,2021/12/8
+mambu,Fintech,Germany,Berlin,2000000.0,1,2080000000.0,2.08,2021/1/6
+mediamath,Internet,United States,New York,26876550.0,4,1000000000.0,1.0,2018/7/10
+mirakl,E-commerce & direct-to-consumer,France,Paris,3000000.0,1,3500000000.0,3.5,2020/9/22
+mixpanel,Internet,United States,San Francisco,12000000.0,3,1050000000.0,1.05,2021/11/15
+mobikwik,Fintech,India,Gurugram,250000.0,1,1000000000.0,1.0,2021/10/13
+modernizing medicine,Health,United States,Boca Raton,40165995.0,5,1000000000.0,1.0,2017/5/10
+momo,Fintech,Vietnam,Ho Chi Minh City,40000000.0,1,2270000000.0,2.27,2021/12/10
+movile,Mobile & telecommunications,Brazil,Sao Paulo,1000000.0,1,1000000000.0,1.0,2018/7/12
+mu sigma,Artificial intelligence,United States,Northbrook,133000000.0,2,1500000000.0,1.5,2013/2/7
+netskope,Cybersecurity,United States,Santa Clara,21400000.0,2,7500000000.0,7.5,2018/11/13
+newsela,Internet,United States,New York,1200000.0,1,1000000000.0,1.0,2021/2/25
+nexthink,Artificial intelligence,Switzerland,Prilly,12150000.0,3,1100000000.0,1.1,2021/2/8
+noom,Health,United States,New York,2600000.0,1,3700000000.0,3.7,2021/5/24
+numbrs,Fintech,Switzerland,Zurich,11500000.0,2,1000000000.0,1.0,2019/8/22
+o9 solutions,Artificial intelligence,United States,Dallas,6000000.0,2,1000000000.0,1.0,2020/4/28
+omada health,Health,United States,San Francisco,5520000.0,3,1000000000.0,1.0,2022/2/23
+one,Internet,Singapore,,1000050.0,1,1000000000.0,1.0,2021/12/8
+outsystems,Internet,United States,Boston,3220000.0,1,9500000000.0,9.5,2018/6/5
+patreon,Internet,United States,San Francisco,2100000.0,1,4000000000.0,4.0,2020/9/2
+plaid,Fintech,United States,San Francisco,2800000.0,1,13400000000.0,13.4,2018/12/11
+planet labs,Other,United States,San Francisco,26416000.0,3,2200000000.0,2.2,2015/4/13
+proterra,"Supply chain, logistics, & delivery",United States,Burlingame,112000000.0,5,1050000000.0,1.05,2020/10/15
+qumulo,Artificial intelligence,United States,Seattle,26800000.0,2,1200000000.0,1.2,2020/7/16
+quora,Internet,United States,Mountain View,71000000.0,2,2000000000.0,2.0,2017/4/21
+reddit,Internet,United States,San Francisco,100000.0,1,10000000000.0,10.0,2017/7/31
+reify health,Health,United States,Boston,350000.0,2,2200000000.0,2.2,2021/8/10
+rokt,Internet,United States,New York,8000000.0,1,1950000000.0,1.95,2021/12/16
+safetyculture,Internet,Australia,Sydney,3000000.0,1,1600000000.0,1.6,2021/5/3
+salesloft,Internet,United States,Atlanta,18000.0,1,1100000000.0,1.1,2021/1/6
+salsify,Internet,United States,Boston,8000000.0,1,2000000000.0,2.0,2022/4/13
+scopely,Mobile & telecommunications,United States,Culver City,8500000.0,1,3300000000.0,3.3,2019/10/29
+sift,Artificial intelligence,United States,San Francisco,4666789.0,2,1000000000.0,1.0,2021/4/22
+signifyd,Fintech,United States,San Jose,2000000.0,1,1340000000.0,1.34,2021/4/15
+sisense,Artificial intelligence,United States,New York,10000000.0,1,1100000000.0,1.1,2020/1/9
+slice,Fintech,India,Bengaluru,37425999.0,3,1000000000.0,1.0,2021/11/28
+smartasset,Fintech,United States,New York,2400000.0,2,1000000000.0,1.0,2021/6/24
+smartrecruiters,Internet,United States,San Francisco,15460000.0,2,1500000000.0,1.5,2021/7/20
+sms assist,Internet,United States,Chicago,60000000.0,2,1000000000.0,1.0,2016/6/7
+snapdeal,E-commerce & direct-to-consumer,India,New Delhi,202000000.0,4,1000000000.0,1.0,2014/5/21
+snaplogic,Internet,United States,San Mateo,34800000.0,4,1000000000.0,1.0,2021/12/13
+socure,Cybersecurity,United States,New York,1700000.0,1,4500000000.0,4.5,2021/3/16
+soundhound,Artificial intelligence,United States,Santa Clara,4000000.0,1,2100000000.0,2.1,2018/5/3
+splashtop,Internet,United States,San Jose,45500000.0,4,1000000000.0,1.0,2021/1/27
+spoton,Fintech,United States,San Francisco,5000000.0,1,3150000000.0,3.15,2021/5/26
+strava,Internet,United States,San Francisco,16100000.0,2,1500000000.0,1.5,2020/11/16
+stripe,Fintech,United States,San Francisco,40000000.0,3,95000000000.0,95.0,2014/1/23
+sumup,Fintech,United Kingdom,London,20000000.0,1,1000000000.0,1.0,2019/7/16
+symphony,Fintech,United States,New York,750000.0,4,1400000000.0,1.4,2017/5/16
+tanium,Cybersecurity,United States,Kirkland,812497.0,1,9000000000.0,9.0,2015/3/31
+tarana wireless,Mobile & telecommunications,United States,Milpitas,14142157.0,2,1000000000.0,1.0,2022/3/23
+tealium,Internet,United States,San Diego,27200000.0,3,1200000000.0,1.2,2021/2/3
+thatgamecompany,Internet,United States,Los Angeles,5500000.0,1,1940000000.0,1.94,2022/3/3
+the zebra,E-commerce & direct-to-consumer,United States,Austin,4500063.0,2,1000000000.0,1.0,2021/4/12
+thumbtack,E-commerce & direct-to-consumer,United States,San Francisco,18200000.0,3,3200000000.0,3.2,2015/9/29
+tradeshift,Fintech,United States,San Francisco,24000000.0,2,2700000000.0,2.7,2018/5/30
+tradingview,Fintech,United States,Westerville,118000.0,1,3000000000.0,3.0,2021/10/14
+tresata,Fintech,United States,Charlotte,1250000.0,2,1000000000.0,1.0,2018/10/10
+trulioo,Cybersecurity,Canada,Vancouver,2300000.0,2,1750000000.0,1.75,2021/6/7
+unite us,Health,United States,New York,2000000.0,1,1700000000.0,1.7,2021/3/17
+upside,Mobile & telecommunications,United States,DC,415000.0,1,1500000000.0,1.5,2022/4/26
+uptake,Artificial intelligence,United States,Chicago,14000000.0,3,2300000000.0,2.3,2015/10/27
+vancl,E-commerce & direct-to-consumer,China,Beijing,100000000.0,1,3000000000.0,3.0,2010/12/14
+vedantu,Edtech,India,Bengaluru,400000.0,1,1000000000.0,1.0,2021/9/29
+venafi,Cybersecurity,United States,Salt Lake City,16000000.0,2,1150000000.0,1.15,2020/12/10
+vestiaire collective,E-commerce & direct-to-consumer,France,Paris,31725050.0,3,1700000000.0,1.7,2021/3/1
+visier,Internet,Canada,Vancouver,21000000.0,2,1000000000.0,1.0,2021/6/29
+vox media,Internet,United States,Washington,61132220.0,5,1000000000.0,1.0,2015/8/12
+wave,Fintech,Senegal,Dakar,1400000.0,1,1700000000.0,1.7,2021/9/7
+yotpo,Internet,United States,New York,2300000.0,2,1400000000.0,1.4,2021/3/18
+zapier,Internet,United States,Sunnyvale,1200000.0,1,4000000000.0,4.0,2021/1/14
+zenefits,Fintech,United States,San Francisco,2100000.0,1,4500000000.0,4.5,2015/5/6
+zocdoc,Health,United States,New York,97000000.0,4,1800000000.0,1.8,2015/8/20
+zopa,Fintech,United Kingdom,London,33900000.0,4,1000000000.0,1.0,2021/10/19
