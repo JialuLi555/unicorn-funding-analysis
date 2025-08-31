@@ -1,0 +1,7 @@
+pandas
+numpy
+sqlite3
+pandas
+os
+matplotlib.pyplot
+seaborn
